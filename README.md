@@ -177,3 +177,8 @@ iptables optional support	    ✅
 Runs on Kali with sudo	      ✅
 
 
+# Conclusion
+
+This project successfully demonstrates the development of a lightweight, customizable Personal Firewall using Python on Kali Linux. By leveraging Scapy for real-time packet sniffing and rule-based filtering, the firewall provides a flexible way to monitor and control network traffic at the user level. Suspicious or unauthorized traffic is logged for audit and analysis, enhancing the security posture of the system.
+Optional integration with iptables allows for deeper system-level packet control, giving users the ability to enforce permanent blocks. This project serves as a foundational step toward building more advanced security tools and highlights the power of Python in cybersecurity automation.
+Whether used for learning, personal protection, or as a prototype for larger systems, this firewall emphasizes the importance of visibility, logging, and proactive filtering in network security.
