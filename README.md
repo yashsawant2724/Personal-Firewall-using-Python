@@ -163,10 +163,17 @@ def block_ip(ip):
 Final Checklist
 
 Task	                       Status
+
 Python environment ready	    ✅
+
 rules.json created	          ✅
+
 Packet sniffing implemented	  ✅
+
 Logging in place	            ✅
+
 iptables optional support	    ✅
+
 Runs on Kali with sudo	      ✅
+
 
